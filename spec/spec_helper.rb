@@ -152,6 +152,7 @@ RSpec.configure do |config|
 =end
 
 end
+
 Capybara.configure do |config|
     config.app = "Sample App"
 end
