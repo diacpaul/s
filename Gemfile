@@ -65,7 +65,7 @@ group :test do
   gem 'rb-fsevent', '0.10.3', :require => false
   gem 'growl', '1.0.3'
   gem 'spork'
-  gem 'factory_girl_rails', '4.1.0'
+  gem 'factory_girl_rails', '4.2.0'
   gem 'cucumber-rails', '1.2.1', :require => false
 
 
